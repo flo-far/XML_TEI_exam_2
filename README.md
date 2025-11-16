@@ -10,7 +10,7 @@ As Antonin Artaud always cultivated some closeness to a lot of revered intellect
 
 ## III. The encoding
 
-The posture in which comes this encodings follows the pinciple of the conceptual anotation of the text. As this text deals with a lot of intellectual referrences, place names, people names, conceptual thinking, ethnological, philosophical, or theological concepts, the TEI can bring another layer of informations, links to external knowlege or normative authorities dictionnaries. 
+The posture in which comes these encodings, follows the pinciple of conceptual anotation of the text. As this text deals with a lot of intellectual referrences, place names, people names, conceptual thinking, ethnological, philosophical, or theological concepts, the TEI can bring another layer of informations, links to external knowlege or normative authorities dictionnaries. 
 
 ## IV. AI usage.
 

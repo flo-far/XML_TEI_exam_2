@@ -5,7 +5,7 @@
       <country>France</country>
    </place>
    <place type="country" xml:id="mexico">
-      <country>Mexique</country>
+      <country>Mexico</country>
    </place>
    <place type="city" xml:id="mexico_city">
       <placeName>Mexico city</placeName>

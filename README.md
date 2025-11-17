@@ -14,4 +14,4 @@ The posture in which comes these encodings, follows the pinciple of conceptual a
 
 ## IV. AI usage.
 
-As my letters were taken from a book, i tried to use AI to transcript automatically pictures of the pages. As the result was criticaly defective, with the AI inventing most of the parts, I prefered to use a traditional OCER transcript software and correct the result by myself. I sometime used AI to explain me some errors I couldn't understand, with more or less fortune. 
+As my letters were taken from a book, i tried to use AI to transcript automatically pictures of the pages. As the result was criticaly defective, with the AI halucinating most of the parts, I prefered to use a traditional OCER transcript software and correct the result by myself. I sometime used AI to explain me some errors I couldn't understand, with more or less fortune. 
